@@ -27,7 +27,7 @@ LegalDocsCMS is a Python-based Content Management System (CMS) designed specific
  ```bash
 cd LegalDocsCMS
 
-Create and activate a virtual environment (recommended):
+3. Create and activate a virtual environment (recommended):
 
 ```bash
 python -m venv venv
