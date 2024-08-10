@@ -41,3 +41,10 @@ LegalDocsCMS is a Python-based Content Management System (CMS) designed specific
 6. Install the required dependencies:
 	```bash
    pip install -r requirements.txt
+#### Usage
+
+1. To create a new document using the CMS:
+	```bash
+   python legaldocs_cms/cms.py
+
+ This will generate a document based on the template and data provided in the script.
